@@ -2,7 +2,8 @@ package com.example.PizzaOrdering.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.context.annotation.Role;
+import com.example.PizzaOrdering.entity.Role;
+
 
 @Entity
 @Data
